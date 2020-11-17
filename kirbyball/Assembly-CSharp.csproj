@@ -54,6 +54,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\camera_ball.cs" />
+     <Compile Include="Assets\Goal.cs" />
      <Compile Include="Assets\returntitle.cs" />
      <Compile Include="Assets\SnapScript2.cs" />
      <Compile Include="Assets\start.cs" />
