@@ -14,7 +14,7 @@ public class warp : MonoBehaviour
     {
         //移動先の座標を取得する
         transVec = trans.transform.position;
-        transVec.y += 0.5f;
+        transVec.y += 0.8f;
 
         moveStatus = true;
     }
