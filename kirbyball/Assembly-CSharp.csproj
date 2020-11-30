@@ -53,6 +53,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\script\Ball.cs" />
      <Compile Include="Assets\script\ball_speedup.cs" />
      <Compile Include="Assets\script\camera_ball.cs" />
      <Compile Include="Assets\script\Goal.cs" />
