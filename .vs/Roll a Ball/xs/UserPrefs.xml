@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{8F0A54F0-5A0E-B6A5-A79C-E691566A2314}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SnapScript2.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="52" Column="36" />
+      <File FileName="Assets/Scripts/op.cs" />
+      <File FileName="Assets/Scripts/CameraController.cs" />
+      <File FileName="Assets/Scripts/SnapScript2.cs" Line="85" Column="36" />
+      <File FileName="Assets/Scripts/ed.cs" Line="18" Column="38" />
+      <File FileName="Assets/Scripts/Ball.cs" Line="26" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Roll a Ball" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1958944b-19ee-4760-9281-4f54ecfe6222" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
